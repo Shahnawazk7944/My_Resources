@@ -26,6 +26,15 @@ This repository is a compilation of resources I found valuable during my Android
 
 <div><br/></div>
 
+### Kotlin Best Practices
+
+* [The recommended best practices for Kotlin-Android developers ](https://medium.com/dennispaulmaliekal/kotlin-best-practices-for-android-developers-part-1-003171b08093) - Part 1.
+* [The recommended best practices for Kotlin-Android developers ](https://medium.com/dennispaulmaliekal/kotlin-best-practices-part-2-9dfe1c9c499b) - Part 2.
+* [Pending to add ](#) - Please waite for some time.
+
+
+<div><br/></div>
+
 ### Coroutines
 
 * [Pending to add ](#) - Please waite for some time.
