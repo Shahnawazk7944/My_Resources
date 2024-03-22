@@ -73,7 +73,7 @@ This repository is a compilation of resources I found valuable during my Android
 
 ### Ktor
 
-* [Pending to add ](#) - Please waite for some time.
+* [Official Ktor documentation](https://ktor.io/docs/welcome.html) - Ktor is a framework for building asynchronous server-side and client-side applications with ease.
 * [Pending to add ](#) - Please waite for some time.
 * [Pending to add ](#) - Please waite for some time.
 
