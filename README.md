@@ -56,7 +56,7 @@ This repository is a compilation of resources I found valuable during my Android
 ### MVVM & Clean Architecher
 
 * [Clean Architecture ](https://medium.com/dennispaulmaliekal/clean-architecture-android-e7d86832a74d) - Build testable, maintainable, and predictable code.
-* [Pending to add ](#) - Please waite for some time.
+* [Design patterns in Android ](https://medium.com/dennispaulmaliekal/design-patterns-in-android-all-developers-should-know-about-it-f05eddc7f708) - All developers should know about it.
 * [Pending to add ](#) - Please waite for some time.
 
 
