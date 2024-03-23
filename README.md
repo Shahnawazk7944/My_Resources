@@ -30,7 +30,7 @@ This repository is a compilation of resources I found valuable during my Android
 
 * [The recommended best practices for Kotlin-Android developers ](https://medium.com/dennispaulmaliekal/kotlin-best-practices-for-android-developers-part-1-003171b08093) - Part 1.
 * [The recommended best practices for Kotlin-Android developers ](https://medium.com/dennispaulmaliekal/kotlin-best-practices-part-2-9dfe1c9c499b) - Part 2.
-* [Pending to add ](#) - Please waite for some time.
+* [Sealed Classes in Kotlin ](https://medium.com/@waghbhavana10/sealed-classes-in-kotlin-138025cf87e3) - All about the Sealed Classes in Kotlin.
 
 
 <div><br/></div>
