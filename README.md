@@ -55,7 +55,7 @@ This repository is a compilation of resources I found valuable during my Android
 
 ### MVVM & Clean Architecher
 
-* [Pending to add ](#) - Please waite for some time.
+* [Clean Architecture ](https://medium.com/dennispaulmaliekal/clean-architecture-android-e7d86832a74d) - Build testable, maintainable, and predictable code.
 * [Pending to add ](#) - Please waite for some time.
 * [Pending to add ](#) - Please waite for some time.
 
