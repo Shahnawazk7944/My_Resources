@@ -91,7 +91,7 @@ This repository is a compilation of resources I found valuable during my Android
 
 ### Canvas
 
-* [Pending to add ](#) - Please waite for some time.
+* [Understanding Canvas in Android ](https://mayursinhdevblog.hashnode.dev/topic-8-understanding-canvas-in-android) - Must be checked out.
 * [Pending to add ](#) - Please waite for some time.
 * [Pending to add ](#) - Please waite for some time.
 
