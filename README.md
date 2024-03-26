@@ -122,7 +122,8 @@ This repository is a compilation of resources I found valuable during my Android
 
 * [Introduction to Jetpack DataStore ](https://medium.com/androiddevelopers/introduction-to-jetpack-datastore-3dc8d74139e7)
 * [All about Preferences DataStore ](https://medium.com/androiddevelopers/all-about-preferences-datastore-cc7995679334)
-* [Pending to add ](#) - Please waite for some time.
+* [All about Proto DataStore ](https://medium.com/androiddevelopers/all-about-proto-datastore-1b1af6cd2879)
+* [Dark mode on android with jetpack compose ](https://medium.com/@khater/dark-mode-on-android-with-jetpack-compose-using-datastore-bb2a1eff5565) - Using dataStore with hilt.
 
 
 <div><br/></div>
