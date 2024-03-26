@@ -118,10 +118,10 @@ This repository is a compilation of resources I found valuable during my Android
 
 <div><br/></div>
 
-### KMP (Kotlin Multi Platform)
+### Android Preference Storages
 
-* [Pending to add ](#) - Please waite for some time.
-* [Pending to add ](#) - Please waite for some time.
+* [Introduction to Jetpack DataStore ](https://medium.com/androiddevelopers/introduction-to-jetpack-datastore-3dc8d74139e7)
+* [All about Preferences DataStore ](https://medium.com/androiddevelopers/all-about-preferences-datastore-cc7995679334)
 * [Pending to add ](#) - Please waite for some time.
 
 
