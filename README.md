@@ -60,7 +60,7 @@ This repository is a compilation of resources I found valuable during my Android
 * [Understanding MVVM Architecture in Android ](https://medium.com/swlh/understanding-mvvm-architecture-in-android-aa66f7e1a70b) - With Repository Pattern.
 * [Android MVVM ](https://medium.com/@dheerubhadoria/android-mvvm-how-to-use-mvvm-in-android-example-7dec84a1fb73)
 * [Getting Started With MVVM in Jetpack Compose ](https://betterprogramming.pub/mvvm-in-jetpack-compose-part-4-fe757a1a1b84) - Learn how to apply MVVM to Jetpack Compose.
-* [Pending to add ](#) - Please waite for some time.
+* [ViewModel To View in Jetpack Compose ](https://betterprogramming.pub/viewmodel-to-view-in-jetpack-compose-7c7183b54fb5) - Learn how to apply ViewModel to View from the MVVM.
 * [Pending to add ](#) - Please waite for some time.
 * [Pending to add ](#) - Please waite for some time.
 
