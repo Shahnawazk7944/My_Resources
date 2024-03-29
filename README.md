@@ -20,7 +20,7 @@ This repository is a compilation of resources I found valuable during my Android
 ### Jetpack Compose Designs
 
 * [Pending to add ](#) - Please waite for some time.
-* [Pending to add ](#) - Please waite for some time.
+* [Jetpack Compose for Android Developers](https://developer.android.com/courses/jetpack-compose/course) - Official courses.
 * [Pending to add ](#) - Please waite for some time.
 
 
