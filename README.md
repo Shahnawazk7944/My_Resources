@@ -106,7 +106,7 @@ This repository is a compilation of resources I found valuable during my Android
 ### Animations
 
 * [Animation In Compose Series (Part 1) ](https://pnbharat.medium.com/animation-in-compose-series-part-1-animated-visiblity-and-animated-content-13e2d13231fa) - Animated Visiblity and Animated Content.
-
+* [Animation In Compose Series (Part 2) ](https://pnbharat.medium.com/animation-in-compose-series-part-2-understanding-animationspec-d95d45bf410d) - Understanding AnimationSpec.
 * [Pending to add ](#) - Please waite for some time.
 
 
