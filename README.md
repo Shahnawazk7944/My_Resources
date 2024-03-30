@@ -105,8 +105,8 @@ This repository is a compilation of resources I found valuable during my Android
 
 ### Animations
 
-* [Pending to add ](#) - Please waite for some time.
-* [Pending to add ](#) - Please waite for some time.
+* [Animation In Compose Series (Part 1) ](https://pnbharat.medium.com/animation-in-compose-series-part-1-animated-visiblity-and-animated-content-13e2d13231fa) - Animated Visiblity and Animated Content.
+
 * [Pending to add ](#) - Please waite for some time.
 
 
