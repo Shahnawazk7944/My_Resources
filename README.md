@@ -78,7 +78,7 @@ This repository is a compilation of resources I found valuable during my Android
 
 ### Retorfit
 
-* [Pending to add ](#) - Please waite for some time.
+* [Exploring Volley vs. Retrofit ](https://blog.stackademic.com/exploring-volley-vs-retrofit-choosing-the-right-networking-library-for-your-android-app-101d293a6835) - Choosing the Right Networking Library for Your Android App.
 * [Pending to add ](#) - Please waite for some time.
 * [Pending to add ](#) - Please waite for some time.
 
