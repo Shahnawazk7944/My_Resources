@@ -39,7 +39,7 @@ This repository is a compilation of resources I found valuable during my Android
 
 * [Pending to add ](#) - Please waite for some time.
 * [Pending to add ](#) - Please waite for some time.
-* [Pending to add ](#) - Please waite for some time.
+* [Understanding Kotlin's Scope Functions ](https://enochrathod.hashnode.dev/understanding-kotlins-scope-functions-a-comprehensive-guide) - A Comprehensive Guide.
 
 
 <div><br/></div>
