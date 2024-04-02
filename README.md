@@ -9,49 +9,93 @@ This repository is a compilation of resources I found valuable during my Android
 
 ## Resource Categories
 
+
+
+
+
 ### Kotlin
 
 * [Kotlin Programming Language Reference](https://kotlinlang.org/docs/getting-started.html) - Official Kotlin documentation
+<!---
 * [Pending to add ](#) - Please waite for some time.
-* [Pending to add ](#) - Please waite for some time.
-
+-->
 <div><br/></div>
+
+
+
+
+
 
 ### Jetpack Compose Designs
 
 * [Pending to add ](#) - Please waite for some time.
 * [Jetpack Compose for Android Developers](https://developer.android.com/courses/jetpack-compose/course) - Official courses.
+<!---
 * [Pending to add ](#) - Please waite for some time.
-
-
+-->
 <div><br/></div>
+
+
+
+
+
+
 
 ### Kotlin Best Practices
 
 * [The recommended best practices for Kotlin-Android developers ](https://medium.com/dennispaulmaliekal/kotlin-best-practices-for-android-developers-part-1-003171b08093) - Part 1.
 * [The recommended best practices for Kotlin-Android developers ](https://medium.com/dennispaulmaliekal/kotlin-best-practices-part-2-9dfe1c9c499b) - Part 2.
 * [Sealed Classes in Kotlin ](https://medium.com/@waghbhavana10/sealed-classes-in-kotlin-138025cf87e3) - All about the Sealed Classes in Kotlin.
-
-
+  
+ <!---
+* [Pending to add ](#) - Please waite for some time.
+--> 
 <div><br/></div>
+
+
+
+
+
+
+
+### Android Best Practices
+
+* [Pending to add ](#) - Please waite for some time.
+  
+ <!---
+* [Pending to add ](#) - Please waite for some time.
+--> 
+<div><br/></div>
+
+
+
+
+
+
 
 ### Coroutines
 
-* [Pending to add ](#) - Please waite for some time.
-* [Pending to add ](#) - Please waite for some time.
 * [Understanding Kotlin's Scope Functions ](https://enochrathod.hashnode.dev/understanding-kotlins-scope-functions-a-comprehensive-guide) - A Comprehensive Guide.
-
-
+<!---
+* [Pending to add ](#) - Please waite for some time.
+-->
 <div><br/></div>
+
+
+
+
 
 ### Flow
 
 * [StateFlow in Android ](https://medium.com/@paritasampa95/stateflow-in-android-812e4d82cac5#:~:text=The%20value%20of%20mutable%20state,the%20most%20recently%20emitted%20value.) - Kotlin Flow.
+<!---
 * [Pending to add ](#) - Please waite for some time.
-* [Pending to add ](#) - Please waite for some time.
-
-
+-->
 <div><br/></div>
+
+
+
+
 
 ### MVVM & Clean Architecher
 
@@ -63,64 +107,87 @@ This repository is a compilation of resources I found valuable during my Android
 * [ViewModel To View in Jetpack Compose ](https://betterprogramming.pub/viewmodel-to-view-in-jetpack-compose-7c7183b54fb5) - Learn how to apply ViewModel to View from the MVVM.
 * [Exploring Jetpack Composes’ Dependencies Injection Using Hilt ](https://betterprogramming.pub/dependencies-injection-jetpack-compose-using-hilt-bd4f76ac6c22) - Tips to create loosely coupled, clean code.
 * [Choosing the Optimal Architecture ](https://medium.com/@shwetagupta_85820/choosing-the-optimal-architecture-for-android-applications-b28e3c7f775c) - For Android Applications.
+<!---
 * [Pending to add ](#) - Please waite for some time.
-
-
+-->
 <div><br/></div>
+
+
+
 
 ### Room
 
 * [Pending to add ](#) - Please waite for some time.
+<!---
 * [Pending to add ](#) - Please waite for some time.
-* [Pending to add ](#) - Please waite for some time.
-
-
+-->
 <div><br/></div>
+
+
+
+
 
 ### Retorfit
 
 * [Exploring Volley vs. Retrofit ](https://blog.stackademic.com/exploring-volley-vs-retrofit-choosing-the-right-networking-library-for-your-android-app-101d293a6835) - Choosing the Right Networking Library for Your Android App.
+<!---
 * [Pending to add ](#) - Please waite for some time.
-* [Pending to add ](#) - Please waite for some time.
-
-
+-->
 <div><br/></div>
+
+
+
+
+
 
 ### Ktor
 
 * [Official Ktor documentation](https://ktor.io/docs/welcome.html) - Ktor is a framework for building asynchronous server-side and client-side applications with ease.
+<!---
 * [Pending to add ](#) - Please waite for some time.
-* [Pending to add ](#) - Please waite for some time.
-
-
+-->
 <div><br/></div>
+
+
+
+
 
 ### Canvas
 
 * [Understanding Canvas in Android ](https://mayursinhdevblog.hashnode.dev/topic-8-understanding-canvas-in-android) - Must be checked out.
+<!---
 * [Pending to add ](#) - Please waite for some time.
-* [Pending to add ](#) - Please waite for some time.
-
-
+-->
 <div><br/></div>
+
+
+
+
 
 ### Animations
 
 * [Animation In Compose Series (Part 1) ](https://pnbharat.medium.com/animation-in-compose-series-part-1-animated-visiblity-and-animated-content-13e2d13231fa) - Animated Visiblity and Animated Content.
 * [Animation In Compose Series (Part 2) ](https://pnbharat.medium.com/animation-in-compose-series-part-2-understanding-animationspec-d95d45bf410d) - Understanding AnimationSpec.
+<!---
 * [Pending to add ](#) - Please waite for some time.
-
-
+-->
 <div><br/></div>
+
+
+
+
 
 ### KMP (Kotlin Multi Platform)
 
 * [Pending to add ](#) - Please waite for some time.
+<!---
 * [Pending to add ](#) - Please waite for some time.
-* [Pending to add ](#) - Please waite for some time.
-
-
+-->
 <div><br/></div>
+
+
+
+
 
 ### Android Preference Storages
 
@@ -130,8 +197,22 @@ This repository is a compilation of resources I found valuable during my Android
 * [Dark mode on android with jetpack compose ](https://medium.com/@khater/dark-mode-on-android-with-jetpack-compose-using-datastore-bb2a1eff5565) - Using dataStore with hilt.
 * [DataStore and dependency injection ](https://medium.com/@khater/dark-mode-on-android-with-jetpack-compose-using-datastore-bb2a1eff5565) - With hilt.
 
+<div><br/></div>
+
+
+
+
+
+### Work Mangere.
+
+* [Pending to add ](#) - Please waite for some time.
+<!---
+* [Pending to add ](#) - Please waite for some time.
+-->
 
 <div><br/></div>
+
+
 
 
 
