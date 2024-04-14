@@ -60,7 +60,7 @@ This repository is a compilation of resources I found valuable during my Android
 
 ### Android Best Practices
 
-* [Pending to add ](#) - Please waite for some time.
+* [The Ultimate Guide ](https://www.youtube.com/watch?v=i1o3kdb6lkA) - Migrating to Android Version Catalogs.
   
  <!---
 * [Pending to add ](#) - Please waite for some time.
