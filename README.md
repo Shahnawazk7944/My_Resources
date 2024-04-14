@@ -61,7 +61,7 @@ This repository is a compilation of resources I found valuable during my Android
 ### Android Best Practices
 
 * [The Ultimate Guide ](https://www.youtube.com/watch?v=i1o3kdb6lkA) - Migrating to Android Version Catalogs.
-  
+* [Android Activity Lifecycle ](https://www.youtube.com/watch?v=5p73VnMu7ZI) - Use it as PRO • 2024.
  <!---
 * [Pending to add ](#) - Please waite for some time.
 --> 
