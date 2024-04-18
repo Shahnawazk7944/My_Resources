@@ -119,7 +119,7 @@ This repository is a compilation of resources I found valuable during my Android
 ### Dependencies Injection
 
 * [Dependency Injection ](https://medium.com/androiddevelopers/dependency-injection-in-compose-a2db897e6f11) - in Compose.
-
+* [Exploring Jetpack Composes’ Dependencies Injection Using Hilt ](https://betterprogramming.pub/dependencies-injection-jetpack-compose-using-hilt-bd4f76ac6c22) - Tips to create loosely coupled, clean code.
 <!---
 * [Pending to add ](#) - Please waite for some time.
 -->
