@@ -28,8 +28,12 @@ This repository is a compilation of resources I found valuable during my Android
 
 ### Jetpack Compose
 
+
 * [Android Compose Samples ](https://github.com/android/compose-samples) - Official samples from Google to get you started with Jetpack Compose.
 * [Jetpack Compose for Android Developers](https://developer.android.com/courses/jetpack-compose/course) - Official courses.
+* [Mastering Side Effects ](https://www.linkedin.com/posts/mobile-innovation-network_mastering-side-effect-in-jetpack-compose-activity-7123277802308534272-oUex?utm_source=share&utm_medium=member_desktop) - in Jetpack Compose.
+* [Pending to add ](#) - Please waite for some time.
+* [Pending to add ](#) - Please waite for some time.
 <!---
 * [Pending to add ](#) - Please waite for some time.
 -->
