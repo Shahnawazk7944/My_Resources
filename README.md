@@ -26,9 +26,9 @@ This repository is a compilation of resources I found valuable during my Android
 
 
 
-### Jetpack Compose Designs
+### Jetpack Compose
 
-* [Pending to add ](#) - Please waite for some time.
+* [Android Compose Samples ](https://github.com/android/compose-samples) - Official samples from Google to get you started with Jetpack Compose.
 * [Jetpack Compose for Android Developers](https://developer.android.com/courses/jetpack-compose/course) - Official courses.
 <!---
 * [Pending to add ](#) - Please waite for some time.
