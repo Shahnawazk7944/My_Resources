@@ -30,10 +30,11 @@ This repository is a compilation of resources I found valuable during my Android
 
 
 * [Android Compose Samples ](https://github.com/android/compose-samples) - Official samples from Google to get you started with Jetpack Compose.
+* [Jetpack Compose ](https://developer.android.com/develop/ui/compose/tutorial) - Official Tutorial.
 * [Jetpack Compose for Android Developers](https://developer.android.com/courses/jetpack-compose/course) - Official courses.
 * [Mastering Side Effects ](https://www.linkedin.com/posts/mobile-innovation-network_mastering-side-effect-in-jetpack-compose-activity-7123277802308534272-oUex?utm_source=share&utm_medium=member_desktop) - in Jetpack Compose.
-* [Jetpack Compose ](https://developer.android.com/develop/ui/compose/tutorial) - Official Tutorial.
-* [Pending to add ](#) - Please waite for some time.
+* [Side-effects in Compose ](https://developer.android.com/develop/ui/compose/side-effects) - Official doc.
+
 <!---
 * [Pending to add ](#) - Please waite for some time.
 -->
@@ -95,6 +96,7 @@ This repository is a compilation of resources I found valuable during my Android
 
 * [StateFlow in Android ](https://medium.com/@paritasampa95/stateflow-in-android-812e4d82cac5#:~:text=The%20value%20of%20mutable%20state,the%20most%20recently%20emitted%20value.) - Kotlin Flow.
 <!---
+* [State and Jetpack Compose ](https://developer.android.com/develop/ui/compose/state) - official doc.
 * [Pending to add ](#) - Please waite for some time.
 -->
 <div><br/></div>
