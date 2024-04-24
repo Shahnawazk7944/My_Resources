@@ -95,8 +95,8 @@ This repository is a compilation of resources I found valuable during my Android
 ### Flow
 
 * [StateFlow in Android ](https://medium.com/@paritasampa95/stateflow-in-android-812e4d82cac5#:~:text=The%20value%20of%20mutable%20state,the%20most%20recently%20emitted%20value.) - Kotlin Flow.
-<!---
 * [State and Jetpack Compose ](https://developer.android.com/develop/ui/compose/state) - official doc.
+<!---
 * [Pending to add ](#) - Please waite for some time.
 -->
 <div><br/></div>
