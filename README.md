@@ -200,7 +200,7 @@ This repository is a compilation of resources I found valuable during my Android
 
 ### KMP (Kotlin Multi Platform)
 
-* [Pending to add ](#) - Please waite for some time.
+* [Building a Compose Multiplatform App From Scratch ](https://www.youtube.com/watch?v=HpfFu2nl32s&feature=youtu.be) - Understanding the Structure.
 <!---
 * [Pending to add ](#) - Please waite for some time.
 -->
