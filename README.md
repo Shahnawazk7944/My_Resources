@@ -24,10 +24,20 @@ This repository is a compilation of resources I found valuable during my Android
 
 
 
+### Kotlin Best Practices
+
+* [The recommended best practices for Kotlin-Android developers ](https://medium.com/dennispaulmaliekal/kotlin-best-practices-for-android-developers-part-1-003171b08093) - Part 1.
+* [The recommended best practices for Kotlin-Android developers ](https://medium.com/dennispaulmaliekal/kotlin-best-practices-part-2-9dfe1c9c499b) - Part 2.
+* [Sealed Classes in Kotlin ](https://medium.com/@waghbhavana10/sealed-classes-in-kotlin-138025cf87e3) - All about the Sealed Classes in Kotlin.
+  
+ <!---
+* [Pending to add ](#) - Please waite for some time.
+--> 
+<div><br/></div>
+
 
 
 ### Jetpack Compose
-
 
 * [Android Compose Samples ](https://github.com/android/compose-samples) - Official samples from Google to get you started with Jetpack Compose.
 * [Jetpack Compose ](https://developer.android.com/develop/ui/compose/tutorial) - Official Tutorial.
@@ -43,31 +53,13 @@ This repository is a compilation of resources I found valuable during my Android
 
 
 
-
-
-
-### Kotlin Best Practices
-
-* [The recommended best practices for Kotlin-Android developers ](https://medium.com/dennispaulmaliekal/kotlin-best-practices-for-android-developers-part-1-003171b08093) - Part 1.
-* [The recommended best practices for Kotlin-Android developers ](https://medium.com/dennispaulmaliekal/kotlin-best-practices-part-2-9dfe1c9c499b) - Part 2.
-* [Sealed Classes in Kotlin ](https://medium.com/@waghbhavana10/sealed-classes-in-kotlin-138025cf87e3) - All about the Sealed Classes in Kotlin.
-  
- <!---
-* [Pending to add ](#) - Please waite for some time.
---> 
-<div><br/></div>
-
-
-
-
-
-
-
-### Android Best Practices
+### Android Best Practices and Concepts
 
 * [The Ultimate Guide ](https://www.youtube.com/watch?v=i1o3kdb6lkA) - Migrating to Android Version Catalogs.
 * [Android Activity Lifecycle ](https://www.youtube.com/watch?v=5p73VnMu7ZI) - Use it as PRO • 2024.
 * [Must have plugins ](https://www.youtube.com/watch?v=5p73VnMu7ZI) - For Android Developers.
+* [Confused of minSdk, targetSdk, and compileSdk? ](https://medium.com/@daniel.atitienei/confused-of-minsdk-targetsdk-and-compilesdk-lets-talk-3b4eeb2646d4#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6ImUxYjkzYzY0MDE0NGI4NGJkMDViZjI5NmQ2NzI2MmI2YmM2MWE0ODciLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTYyNzQ0Mzg3NDE4NzQxNzY1NjgiLCJlbWFpbCI6Iml5Y3MyMTIyQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJuYmYiOjE3MTQ0OTgzNDksIm5hbWUiOiJJWUNTIFRZIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FDZzhvY0pRUE5iNTRucFpzM3JBVTR5UUdLWk5FOXpxTThtbUJMV083OGp5R1NUT3A5U0doTXc9czk2LWMiLCJnaXZlbl9uYW1lIjoiSVlDUyIsImZhbWlseV9uYW1lIjoiVFkiLCJpYXQiOjE3MTQ0OTg2NDksImV4cCI6MTcxNDUwMjI0OSwianRpIjoiNzgyZjI5M2U3NTA0MTgyNjk3ZjI2YTFkZTlhYWJiNjA1OWQ0MTAyOCJ9.h1pzdrMIrypslwAqtEzR6nUE10z9IO59GDRLN_sbE4OL5xeDJeA6mR6r25MbapYqjThb8Xx6srNmBEEKzClSX1h-DfhGMb4i6-js3Ah6Amhe450wW36CO6xbJH-FeHzaIFNnWvIl0eDUbKiMcSTLp8PFBT5RaLx6A153FEGnMWqzZFAjB-7XxN0WOjGhH56TqedsHc97h9VrGiUZxnOQQir3DkivISkhsx7UB7MBjHeeomttDVNfSjCRgO9uvyRCLZ4qEnmsvtGnkZml4Hea3s43hEkPXyIYQoVZBvJP6tPiK0RbePAlSVkWEEAAbUunn4M1LqcRMoWAz9HV3_9PMw) - Let’s TALK
+
  <!---
 * [Pending to add ](#) - Please waite for some time.
 --> 
