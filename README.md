@@ -131,7 +131,7 @@ This repository is a compilation of resources I found valuable during my Android
 
 ### Room
 
-* [Pending to add ](#) - Please waite for some time.
+* [Getting Started With Room Database ](https://medium.com/@prakash.ayinala7/getting-started-with-room-database-in-kotlin-jetpack-compose-mvvm-dagger-hilt-3bdec10b70ed) - In Kotlin + Jetpack Compose || MVVM +Dagger Hilt.
 <!---
 * [Pending to add ](#) - Please waite for some time.
 -->
