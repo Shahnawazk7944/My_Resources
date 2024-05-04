@@ -103,7 +103,7 @@ This repository is a compilation of resources I found valuable during my Android
 * [Clean Architecture ](https://medium.com/dennispaulmaliekal/clean-architecture-android-e7d86832a74d) - Build testable, maintainable, and predictable code.
 * [Design patterns in Android ](https://medium.com/dennispaulmaliekal/design-patterns-in-android-all-developers-should-know-about-it-f05eddc7f708) - All developers should know about it.
 * [Understanding MVVM Architecture in Android ](https://medium.com/swlh/understanding-mvvm-architecture-in-android-aa66f7e1a70b) - With Repository Pattern.
-* [Android MVVM ](https://medium.com/@dheerubhadoria/android-mvvm-how-to-use-mvvm-in-android-example-7dec84a1fb73)
+* [Android MVVM ](https://medium.com/@dheerubhadoria/android-mvvm-how-to-use-mvvm-in-android-example-7dec84a1fb73) - how to use MVVM in android example?
 * [Getting Started With MVVM in Jetpack Compose ](https://betterprogramming.pub/mvvm-in-jetpack-compose-part-4-fe757a1a1b84) - Learn how to apply MVVM to Jetpack Compose.
 * [ViewModel To View in Jetpack Compose ](https://betterprogramming.pub/viewmodel-to-view-in-jetpack-compose-7c7183b54fb5) - Learn how to apply ViewModel to View from the MVVM.
 * [Choosing the Optimal Architecture ](https://medium.com/@shwetagupta_85820/choosing-the-optimal-architecture-for-android-applications-b28e3c7f775c) - For Android Applications.
