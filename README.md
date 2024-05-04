@@ -44,7 +44,7 @@ This repository is a compilation of resources I found valuable during my Android
 * [Jetpack Compose for Android Developers](https://developer.android.com/courses/jetpack-compose/course) - Official courses.
 * [Mastering Side Effects ](https://www.linkedin.com/posts/mobile-innovation-network_mastering-side-effect-in-jetpack-compose-activity-7123277802308534272-oUex?utm_source=share&utm_medium=member_desktop) - in Jetpack Compose.
 * [Side-effects in Compose ](https://developer.android.com/develop/ui/compose/side-effects) - Official doc.
-
+* [Composition Local ](https://medium.com/@ramadan123sayed/composition-local-in-jetpack-compose-4d0a54afa67c) - In Jetpack Compose.
 <!---
 * [Pending to add ](#) - Please waite for some time.
 -->
