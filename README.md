@@ -217,9 +217,9 @@ This repository is a compilation of resources I found valuable during my Android
 
 
 
-### Work Mangere.
+### Work Mangere + Advance Stuff.
 
-* [Pending to add ](#) - Please waite for some time.
+* [Scheduled local notification ](https://meetpatadia9.medium.com/scheduled-local-notification-in-android-using-alarmmanager-3eefef512785) - In Android using AlarmManager.
 <!---
 * [Pending to add ](#) - Please waite for some time.
 -->
