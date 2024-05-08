@@ -51,6 +51,14 @@ This repository is a compilation of resources I found valuable during my Android
 <div><br/></div>
 
 
+### Jetpack Compose Best Practices
+
+* [Compress Images Using Kotlin ](https://medium.com/@daniel.atitienei/compress-images-using-kotlin-jetpack-compose-e8e25fc7f3bc) - Jetpack Compose.
+<!---
+* [Pending to add ](#) - Please waite for some time.
+-->
+<div><br/></div>
+
 
 
 ### Android Best Practices and Concepts
