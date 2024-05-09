@@ -54,6 +54,7 @@ This repository is a compilation of resources I found valuable during my Android
 ### Jetpack Compose Best Practices
 
 * [Compress Images Using Kotlin ](https://medium.com/@daniel.atitienei/compress-images-using-kotlin-jetpack-compose-e8e25fc7f3bc) - Jetpack Compose.
+* [Unleash the Power of Kotlin ](https://medium.com/@binayshaw7777/unleash-the-power-of-kotlin-build-awesome-sites-using-kobweb-dbe588b0c2fb) - Build Awesome Sites Using Kobweb
 <!---
 * [Pending to add ](#) - Please waite for some time.
 -->
