@@ -86,6 +86,7 @@ This repository is a compilation of resources I found valuable during my Android
 * [Kotlin coroutines ](https://developer.android.com/kotlin/coroutines) - on Android.
 * [Understanding Kotlin's Scope Functions ](https://enochrathod.hashnode.dev/understanding-kotlins-scope-functions-a-comprehensive-guide) - A Comprehensive Guide.
 * [Suspending vs Blocking ](https://yveskalume.medium.com/kotlin-coroutines-suspending-vs-blocking-73d0194507ab) - Kotlin Coroutines
+* [Mastering Kotlin ](https://amitshekhar.me/blog/kotlin-coroutines) - Coroutines
 <!---
 * lease waite for some time.
 -->
